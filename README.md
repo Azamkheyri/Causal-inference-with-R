@@ -55,27 +55,6 @@ Instructor: *David Sontag*
   6. Run diagnostics & sensitivity analysis  
 - Connects to the ongoing book project *Causal Inference in R*.  
 
----
-
-## 📂 Repository Structure
-
-causal-inference-with-R/
-│
-├── README.md <- You are here
-│
-├── lectures/ <- Summaries of MIT lectures
-│ ├── lecture14_summary.md
-│ └── lecture15_summary.md
-│
-├── R-code/ <- Reproduced R code from lectures/tutorial
-│ ├── propensity_scores.R
-│ ├── weighting_visuals.R
-│ ├── ate_estimation.R
-│ ├── love_plots.R
-│ └── whole_game_annotated.R
-│
-└── resources/ <- Extra references, links, and reading
-
 
 ---
 
